@@ -11,5 +11,6 @@ Korea Furry Discord Bot
 
 * * *
 > 곡 목록에 있는 아티스트분들
-  ```[닥터매드](https://www.youtube.com/@DrMad_vtuber), 오스카, HugeXHugo, 초코곰탱이, 빙쑤, 설딘```
-
+>	  [닥터매드](https://www.youtube.com/@DrMad_vtuber), , HugeXHugo, 초코곰탱이, 빙쑤, 설딘
+>	  [오스카](https://www.youtube.com/@_vfy)
+>	  
