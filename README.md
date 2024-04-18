@@ -11,10 +11,10 @@ Korea Furry Discord Bot
 
 * * *
 > 곡 목록에 있는 아티스트분들
->	  >[닥터매드](https://www.youtube.com/@DrMad_vtuber)
->	  >[오스카](https://www.youtube.com/@_vfy)
->	  >[HugeXHugo](https://www.youtube.com/@hugexhugo)
->	  >[초코곰탱이](https://www.youtube.com/@Choko_Gom)
->	  >[빙쑤](https://www.youtube.com/@bingssu_music)
+>	  >[닥터매드](https://www.youtube.com/@DrMad_vtuber)   
+>   >[오스카](https://www.youtube.com/@_vfy)   
+>	  >[HugeXHugo](https://www.youtube.com/@hugexhugo)   
+>	  >[초코곰탱이](https://www.youtube.com/@Choko_Gom)   
+>	  >[빙쑤](https://www.youtube.com/@bingssu_music)   
 >	  >[설딘](https://www.youtube.com/@sardinevish)
 
