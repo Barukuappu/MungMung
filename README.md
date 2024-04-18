@@ -18,4 +18,5 @@ Korea Furry Discord Bot
 * [빙쑤](https://www.youtube.com/@bingssu_music)   
 * [설딘이](https://www.youtube.com/@sardinevish)
 
-
+> 스트리머 목록에 있는 스트리머분들을 적기엔 너무 많으니.. 아래 .py 파일을 참고해주세요.   
+>   >```links.py```
